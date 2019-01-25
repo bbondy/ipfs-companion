@@ -1,0 +1,13 @@
+{
+    "sockets": {
+        "udp": {
+            "send": "*"
+        },
+        "tcp": {
+            "connect": "*"
+        },
+        "tcpServer": {
+            "listen": "*"
+        }
+    }
+}
